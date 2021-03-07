@@ -4,9 +4,11 @@
 
 <details>
 <summary>展开查看</summary>
-<pre><code>
-System.out.println("Hello to see U!");
-</code></pre>
+- System.out.println("Hello to see U!");
+  - 第二
+  - 第二
+    - 第三
+- 第一
 </details>
 
 
