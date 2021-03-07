@@ -3,25 +3,33 @@
 <!-- code_chunk_output -->
 
 <details>
-
-<summary>Java:</summary>
+<summary>计算机科学与技术:</summary>
 - [第一](#胡康)
 - 第一
 - 第一
   - 第二
   - 第二
     - 第三
- 
 </details>
----
+
+<details>
+<summary>Java学习:</summary>
+- [第一](#胡康)
+- 第一
+- 第一
+  - 第二
+  - 第二
+    - 第三
+</details>
+
+
 <!-- /code_chunk_output -->
 
-## Java
-## 胡康
-### 基础
+## 计算机科学与技术
 
+## Java学习
+### Java基础
 **知识点/面试题:**(必看:+1: )
-
 1. **[Java 基础知识](docs/java/basis/Java基础知识.md)**
 2. **[Java 基础知识疑难点/易错点](docs/java/basis/Java基础知识疑难点.md)**
 
