@@ -11,18 +11,17 @@
   - 第二
     - 第三
 </details>
-
+<!-- /code_chunk_output -->
+<!-- code_chunk_output -->
 <details>
 <summary>Java学习:</summary>
-- [第一](#胡康)
+- [第一](#Java学习)
 - 第一
 - 第一
   - 第二
   - 第二
     - 第三
 </details>
-
-
 <!-- /code_chunk_output -->
 
 ## 计算机科学与技术
