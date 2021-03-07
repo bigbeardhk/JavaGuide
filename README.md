@@ -6,26 +6,22 @@
 <details>
 <summary>Java:</summary>
 
-- 第一
+- [第一](#胡康)
 - 第一
 - 第一
   - 第二
   - 第二
     - 第三
-  
-
+ 
 </details>
 
-<details>
-<summary>Java:</summary>
+
 - [Java](#java)
   - [基础 (必看 :+1:)](#基础)
   - [容器](#容器)
   - [并发](#并发)
   - [JVM (必看 :+1:)](#jvm-必看-1)
   - [新特性](#新特性)
-
-</details>
 - [网络](#网络)
 - [hk](#胡康)
 - [操作系统](#操作系统)
